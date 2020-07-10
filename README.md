@@ -1,0 +1,3 @@
+# GoMarketplace
+
+This is a React-Native project where it's simuleted a marketplace app, where you can buy stuff...
